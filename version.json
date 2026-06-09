@@ -1,6 +1,6 @@
 {
-  "version": "4.1.0",
-  "notes": "License-based workflow access via Cloudflare Worker KV.",
-  "download_url": "https://github.com/tfx202x-byte/KOVA-Content-Assistant/raw/main/KOVA_Content_Assistant_Extension_v4_1.zip",
+  "version": "4.1.3",
+  "notes": "Fixed license saving and stable hidden license UX.",
+  "download_url": "https://github.com/tfx202x-byte/KOVA-Content-Assistant/raw/main/KOVA_Content_Assistant_Extension_v4_1_3.zip",
   "repo_url": "https://github.com/tfx202x-byte/KOVA-Content-Assistant"
 }
