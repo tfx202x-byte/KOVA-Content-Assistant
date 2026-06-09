@@ -66,32 +66,9 @@
       "saveTo": "outputs"
     }
   ],
+  "updatedAt": "2026-06-09T04:25:03.276Z",
   "version": "3.0",
-  "updatedAt": "2026-06-09T04:07:37.354Z",
-  "projectConfig": {
-    "projectName": "FE Stories",
-    "language": "English",
-    "channelDNA": "emotional family drama, family secrets, hidden identities, betrayal, reunion, moral justice, healing",
-    "storyWorld": "modern United States, realistic everyday life",
-    "targetLength": "9,000–11,000 words",
-    "chapterLength": "900–1100 words per middle chapter, 400–600 words for final chapter",
-    "pov": "Third-person, past tense",
-    "audience": "English-speaking YouTube audience who enjoys emotional storytelling and shocking but believable twists",
-    "styleRules": [
-      "Believable and emotionally rich",
-      "No unrealistic coincidence",
-      "Clear rising tension and emotional payoff",
-      "Natural American English",
-      "Easy to read aloud by voice AI",
-      "No headings or chapter labels in final script"
-    ],
-    "forbiddenRules": [
-      "No reused plot",
-      "No meta commentary",
-      "No chapter number in final content",
-      "No title/heading in chapter output",
-      "No unrealistic or forced twist"
-    ],
-    "exportMode": "chapters_only_clean"
-  }
+  "source": "cloud",
+  "cloudUrl": "https://raw.githubusercontent.com/tfx202x-byte/KOVA-Content-Assistant/main/workflows/FE-Stories.json",
+  "cloudVersion": "3.0"
 }
