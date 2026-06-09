@@ -1,5 +1,6 @@
 {
   "workflows": [
-    "FE-Stories.json"
+    "FE-Stories.json",
+    "HT-Stories.json"
   ]
 }
