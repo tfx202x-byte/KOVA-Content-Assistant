@@ -1,6 +1,6 @@
 {
-  "version": "3.1.0",
-  "notes": "Added Project Config Editor to avoid editing prompts step by step.",
-  "download_url": "https://github.com/tfx202x-byte/KOVA-Content-Assistant/raw/main/KOVA_Content_Assistant_Extension_v3_1.zip",
+  "version": "3.2.0",
+  "notes": "Added Cloud Workflow Sync from GitHub JSON.",
+  "download_url": "https://github.com/tfx202x-byte/KOVA-Content-Assistant/raw/main/KOVA_Content_Assistant_Extension_v3_2.zip",
   "repo_url": "https://github.com/tfx202x-byte/KOVA-Content-Assistant"
 }
