@@ -1,6 +1,5 @@
 {
-  "version": "3.3.0",
-  "notes": "Added Workflow Pack Manager: save, export and import full workflow with project config.",
-  "download_url": "https://github.com/tfx202x-byte/KOVA-Content-Assistant/raw/main/KOVA_Content_Assistant_Extension_v3_3.zip",
-  "repo_url": "https://github.com/tfx202x-byte/KOVA-Content-Assistant"
+  "version": "3.4.0",
+  "zip": "KOVA_Content_Assistant_Extension_v3_4.zip",
+  "notes": "Workflow Cloud Sync + Auto Full + Clean Export TXT"
 }
