@@ -1,6 +1,6 @@
 {
-  "version": "2.4.0",
-  "notes": "Clean content-only TXT export. Removes chapter numbers, headings and meta commentary.",
-  "download_url": "https://raw.githubusercontent.com/tfx202x-byte/KOVA-Content-Assistant/main/KOVA_Content_Assistant_Extension_v2_4.zip",
+  "version": "3.0.0",
+  "notes": "Workflow Builder",
+  "download_url": "https://github.com/tfx202x-byte/KOVA-Content-Assistant/raw/main/KOVA_Content_Assistant_Extension_v3_0.zip",
   "repo_url": "https://github.com/tfx202x-byte/KOVA-Content-Assistant"
 }
