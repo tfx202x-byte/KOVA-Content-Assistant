@@ -1,5 +1,6 @@
 {
-  "version": "2.2.0",
-  "notes": "Initial Release",
-  "download_url": ""
+  "version": "2.4.0",
+  "notes": "Clean content-only TXT export. Removes chapter numbers, headings and meta commentary.",
+  "download_url": "https://raw.githubusercontent.com/tfx202x-byte/KOVA-Content-Assistant/main/KOVA_Content_Assistant_Extension_v2_4.zip",
+  "repo_url": "https://github.com/tfx202x-byte/KOVA-Content-Assistant"
 }
