@@ -1,6 +1,6 @@
 {
-  "version": "3.4.3",
-  "notes": "Robust Cloud Workflow Sync. Fix GitHub sync, fallback workflow loading, workflow recovery and verbose logs.",
-  "download_url": "https://github.com/tfx202x-byte/KOVA-Content-Assistant/raw/main/KOVA_Content_Assistant_Extension_v3_4_3.zip",
+  "version": "4.1.0",
+  "notes": "License-based workflow access via Cloudflare Worker KV.",
+  "download_url": "https://github.com/tfx202x-byte/KOVA-Content-Assistant/raw/main/KOVA_Content_Assistant_Extension_v4_1.zip",
   "repo_url": "https://github.com/tfx202x-byte/KOVA-Content-Assistant"
 }
