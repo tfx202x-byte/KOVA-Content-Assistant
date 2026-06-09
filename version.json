@@ -1,6 +1,6 @@
 {
-  "version": "3.4.1",
-  "notes": "Fixed Cloud Workflow Sync. Force updates cloud workflows by id and refreshes UI.",
-  "download_url": "https://github.com/tfx202x-byte/KOVA-Content-Assistant/raw/main/KOVA_Content_Assistant_Extension_v3_4_1.zip",
+  "version": "3.4.2",
+  "notes": "Stable workflow state. Fixed blank workflow list and force cloud sync.",
+  "download_url": "https://github.com/tfx202x-byte/KOVA-Content-Assistant/raw/main/KOVA_Content_Assistant_Extension_v3_4_2.zip",
   "repo_url": "https://github.com/tfx202x-byte/KOVA-Content-Assistant"
 }
