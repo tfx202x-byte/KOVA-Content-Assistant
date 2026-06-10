@@ -1,6 +1,6 @@
 {
-  "version": "4.1.7",
-  "notes": "Optimized TXT export. Fix chapter number leakage. Remove Chapter/Part headings. Handle ... punctuation. Improve Voice Over cleaner.",
-  "download_url": "https://github.com/tfx202x-byte/KOVA-Content-Assistant/raw/main/KOVA_Content_Assistant_Extension_v4_1_7.zip",
+  "version": "4.1.8",
+  "notes": "Stable build from v4.1.6. Fixed TXT export chapter number leakage, Chapter/Part headings, ... punctuation, and added safe Original TXT export.",
+  "download_url": "https://github.com/tfx202x-byte/KOVA-Content-Assistant/raw/main/KOVA_Content_Assistant_Extension_v4_1_8.zip",
   "repo_url": "https://github.com/tfx202x-byte/KOVA-Content-Assistant"
 }
