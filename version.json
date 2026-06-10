@@ -1,6 +1,6 @@
 {
-  "version": "4.1.6",
-  "notes": "Optimized TXT export for Voice Over.",
-  "download_url": "https://github.com/tfx202x-byte/KOVA-Content-Assistant/raw/main/KOVA_Content_Assistant_Extension_v4_1_6.zip",
+  "version": "4.1.7",
+  "notes": "Added Original TXT export.",
+  "download_url": "https://github.com/tfx202x-byte/KOVA-Content-Assistant/raw/main/KOVA_Content_Assistant_Extension_v4_1_7.zip",
   "repo_url": "https://github.com/tfx202x-byte/KOVA-Content-Assistant"
 }
