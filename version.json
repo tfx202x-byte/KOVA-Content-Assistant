@@ -1,6 +1,6 @@
 {
-  "version": "4.2.0",
-  "notes": "Stable build. Export TXT filename now uses only the project code, for example FE_001.txt.",
-  "download_url": "https://github.com/tfx202x-byte/KOVA-Content-Assistant/raw/main/KOVA_Content_Assistant_Extension_v4_2_0.zip",
+  "version": "4.2.1",
+  "notes": "Fixed TXT export filename. Files now use only the project code, for example FE_001.txt.",
+  "download_url": "https://github.com/tfx202x-byte/KOVA-Content-Assistant/raw/main/KOVA_Content_Assistant_Extension_v4_2_1.zip",
   "repo_url": "https://github.com/tfx202x-byte/KOVA-Content-Assistant"
 }
